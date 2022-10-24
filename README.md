@@ -8,12 +8,8 @@ uno-momento is a java programm based on one of the most influential card game UN
 
 ## Team Members
 
-* Nicola Fontana (fontani@usi.ch), interno9
-* Cristiano Masutti (masutc@usi.ch), cristiano-masutti
-
-## Mentor
-
-* Andrea Gallidabino
+* Nicola Fontana
+* Cristiano Masutti
 
 # Rules 
 
