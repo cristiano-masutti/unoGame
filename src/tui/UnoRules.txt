@@ -1,0 +1,17 @@
+Welcome to UnoMomento!!!
+The game is easy to play. 
+Each player starts with 7 cards in his hands.
+At each turn a player must throw a card on the discarded deck; the card must match the color or the number of the the card on top of the deck
+If a player doesn't have a card he must draw from the deck in the middle of the table
+If a plyer is left with one card he must press the button 'UNO', otherwise he will have to draw two cards
+Special cards: 
+SKIP will make the next player skip a turn
+REVERSE will change the direction of the game
+PLUSTWO will make the next player draw two cards (if he doen't have a plus two too
+BLACK:
+WILD will change the color of the discarded deck
+PLUSFOUR it the same as the PLUSTWO card but with four cards and will change the color of hte discarded deck
+Modes:
+Classic: cards with colors and numbers, special cards
+Special: only special cards
+Custom: only black cards
